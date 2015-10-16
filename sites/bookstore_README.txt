@@ -21,6 +21,9 @@ Username: admin
 Password: password
 Database host: 127.0.0.1
 Database port: 8889
+
+Site maintenance account has the same username and password.
+
 4. Navigate to localhost:8888 using your favorite browser and complete the drupal installation.
 
 
@@ -32,7 +35,8 @@ Drupal 7
 ->Views
 ->Features
 ->Strongarm
-
+:Themes
+->The Company Responsive Theme 7.x-1.2
 
 ### Legal
 
